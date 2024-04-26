@@ -1,7 +1,7 @@
 # Heart_Disease_prediction
 
 Data Shape = 303,14
-null values = none
+null values = none 
 model trained and evaluted   = 6 models
 models are = 
       Logistic regression
